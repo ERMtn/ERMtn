@@ -1,7 +1,7 @@
 <h1>
     Eloy R. M. &nbsp; &nbsp;
     <span>
-        <img src="https://img.shields.io/badge/Junior-Developer-lightgrey?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Developer-lightgrey?style=for-the-badge">
     </span>
 </h1>
 
